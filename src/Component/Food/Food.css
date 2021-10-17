@@ -1,0 +1,13 @@
+.food-card:hover{
+  box-shadow: 1px 3px 15px -4px #000000;
+}
+
+.detailsLink{
+    color: black;
+    text-decoration: none !important;
+}
+
+.food-card img{
+    height: 150px;
+    width: 150px;
+}
